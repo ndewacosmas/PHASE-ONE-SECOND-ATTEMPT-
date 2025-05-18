@@ -25,30 +25,36 @@ The fourth componet of the system are backended which used to intergrate all sys
 
 
 
-Advantage and Disadvantages of the bach data processing application advantages
+Advantage and Disadvantages of the bach data processing application 
 
-easy to used the system
 
-reduce time to make maintenances'
+Advantages
 
-Cost - Effective
+1. Easy to used the system
 
-simple to handling error
+2. Reduce time to make maintenances'
 
-Automation
+3. Cost - Effective
 
-Data integrity
+4. Simple to handling error
 
-disadvantages isadvanta
+5. Automation
 
-latency
+6. Data integrity
 
-complex Error Recovery
 
-Resources intensive
 
-lack of flexibility
 
-Difficulties in monitoring
+Disadvantages
 
-Data Staleness
+1. Latency
+
+2. Complex Error Recovery
+
+3. Resources intensive
+
+4. Lack of flexibility
+
+5. Difficulties in monitoring
+
+6. Data Staleness
