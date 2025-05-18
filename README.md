@@ -17,6 +17,7 @@ The fourth componet of the system are backended which used to intergrate all sys
 
 
 
+![BATCH DATA ARCHITECTURE PHASE 1 SECOND ATEMPTS](https://github.com/user-attachments/assets/eb229880-c7f9-4f4f-9496-18e63168cbbf)
 
 
 
